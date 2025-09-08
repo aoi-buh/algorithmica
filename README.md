@@ -1,3 +1,9 @@
+# The Fork
+
+Some of the md headers are changed to compensate for the [breaking change](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/171) in hugo v0.136.5.
+
+And also the Russian version is removed since I didn't want to edit as many files.
+
 # Algorithmica v3
 
 Algorithmica is an open-access web book dedicated to the art and science of computing.
