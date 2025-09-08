@@ -1,7 +1,8 @@
 ---
 title: Getting Accurate Results
 weight: 10
-published: true
+params:
+    published: true
 ---
 
 It is not an uncommon for there to be two library algorithm implementations, each maintaining its own benchmarking code, and each claiming to be faster than the other. This confuses everyone involved, especially the users, who have to somehow choose between the two.

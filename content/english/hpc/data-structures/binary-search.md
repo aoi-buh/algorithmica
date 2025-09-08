@@ -1,7 +1,8 @@
 ---
 title: Binary Search
 weight: 1
-published: true
+params:
+    published: true
 ---
 
 <!-- mention interpolation search and radix trees? -->

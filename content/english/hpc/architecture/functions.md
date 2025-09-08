@@ -1,7 +1,8 @@
 ---
 title: Functions and Recursion
 weight: 3
-published: true
+params:
+    published: true
 ---
 
 To "call a function" in assembly, you need to [jump](../loops) to its beginning and then jump back. But then two important problems arise:

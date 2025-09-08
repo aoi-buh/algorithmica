@@ -1,7 +1,8 @@
 ---
 title: Flags and Targets
 weight: 2
-published: true
+params:
+    published: true
 ---
 
 The first step of getting high performance from the compiler is to ask for it, which is done with over a hundred different compiler options, attributes, and pragmas.

@@ -1,7 +1,8 @@
 ---
 title: Rounding Errors
 weight: 2
-published: true
+params:
+    published: true
 ---
 
 The way rounding works in hardware floats is remarkably simple: it occurs if and only if the result of the operation is not representable exactly, and by default gets rounded to the nearest representable number (in case of a tie preferring the number that ends with a zero).

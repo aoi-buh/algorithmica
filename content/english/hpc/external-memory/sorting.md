@@ -1,7 +1,8 @@
 ---
 title: External Sorting
 weight: 4
-published: true
+params:
+    published: true
 ---
 
 Now, let's try to design some actually useful algorithms for the new [external memory model](../model). Our goal in this section is to slowly build up more complex things and eventually get to *external sorting* and its interesting applications.
